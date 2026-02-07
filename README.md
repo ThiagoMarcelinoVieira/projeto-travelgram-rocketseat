@@ -12,6 +12,6 @@ Este projeto foi construído com as tecnologias fundamentais da web, focando em 
 
 * **HTML5:** Estruturação semântica do conteúdo.
 * **CSS3:** Estilização avançada com o uso de:
-    * **Flexbox & Grid:** Para o alinhamento da bio e a malha de fotos.
+    * **Flexbox:** Para o alinhamento da bio e a malha de fotos.
     * **Variáveis CSS:** Para facilitar a manutenção de cores e fontes.
     * **Media Queries:** Garantindo que o site seja totalmente responsivo.
