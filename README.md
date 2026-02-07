@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./travelgram-print.png" alt="Preview do Travelgram" width="100%">
+  <img src="assets/travelgram-print.png" alt="Preview do Travelgram" width="100%">
 </p>
 
 # ✈️ Travelgram
